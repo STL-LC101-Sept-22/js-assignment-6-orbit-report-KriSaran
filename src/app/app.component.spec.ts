@@ -38,5 +38,4 @@ describe('AppComponent', () => {
 	expect(compiled.querySelector('app-orbit-list')).not.toBe(null);
  }));
 
-
 });
